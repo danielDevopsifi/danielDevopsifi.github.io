@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a modern portfolio website built with Next.js, React, and TypeScript. This README provides instructions on how to make changes to the website content, even if you're not a technical person.
+This is a modern portfolio website built with Next.js, React, and TypeScript. This README provides instructions on how to make changes to the website content.
 
 ## Table of Contents
 
